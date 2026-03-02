@@ -1,3 +1,8 @@
+---
+name: google-official
+description: "Direct Google Workspace access via googleapis library. Use when: high-fidelity Gmail, Calendar, Drive, Sheets, or Docs operations needed, or when gog CLI is insufficient. Requires service account. Triggers: Gmail API, Calendar API, Drive API, Sheets API, Docs API, Google Workspace, service account."
+---
+
 # Google Official Skill
 
 This skill provides direct access to Google Workspace (Gmail, Calendar, Drive, Sheets, Docs) using the official `googleapis` library and the VULKN Service Account.
